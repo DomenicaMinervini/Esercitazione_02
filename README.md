@@ -1,4 +1,4 @@
-ESERCITAZIONE 02: RISOLVO UN INTEGRALE.
+ESERCITAZIONE 02: RISOLVO UN INTEGRALE
 
 Per tutte le cartelle Esercizio_02 valgono le seguenti istruzioni per:
 
