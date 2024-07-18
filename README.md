@@ -8,4 +8,4 @@ Per tutte le cartelle Esercizio_02 valgono le seguenti istruzioni per:
 
 	cancellare i file prodotti: make clean
 
- Per altre informazioni leggere il file README.md nella cartella.
+ Per ulteriori informazioni leggere il file README.md nella cartella.
